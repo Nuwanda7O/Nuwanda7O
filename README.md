@@ -4,7 +4,7 @@
   Nuwanda.
 - 👻 who am I ？
   <br>
-  I'm a student from Zhejiang University of Finance and economics whose major is software engineering.
+  I'm a student from Zhejiang University of Finance and Economics whose major is software engineering.
 - 😍 What am I interested in ？
   <br>
   Front-end development technologies
